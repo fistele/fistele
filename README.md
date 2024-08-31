@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/ntonof" target="blank" style="text-decoration : none">
+  <a href="https://twitter.com/ntonof" target="blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/ntono-mathieu-fistele" target="blank">
@@ -39,7 +39,7 @@
 
 I’m a passionate **Frontend & Mobile Developer** with a focus on creating intuitive and dynamic user interfaces. From Cameroon, iam currently based in Tunisia, I’m always exploring the latest technologies and trends to stay ahead in the ever-evolving world of web and mobile development.
 
-- 🔭 I’m currently working on [tikosoft Website](https://tikosoftinnovation.com)
+- 🔭 I’m currently working on [tikosoft website](https://tikosoftinnovation.com)
 - 🌱 I’m expanding my skills in **ReactJS, NodeJS, Jetpack Compose, and Kotlin**
 - 👯 I’m open to collaborations on **Open Source Projects**
 - 🤝 I’m looking for mentorship and collaboration on **NodeJS**
@@ -169,16 +169,7 @@ Here are some of the projects I've worked on recently:
 
 If you'd like to collaborate on a project, discuss new ideas, or just want to chat, feel free to reach out to me via email or any of the social media platforms listed above!
 
-<p align="center">
-  <strong>Can you catch the Dino?</strong>
-</p>
 
 <p align="center">
-  <a href="https://www.google.com/search?q=dino+game" target="_blank">
-    <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Catch the Dino" style="border: 2px solid #36BCF7; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.3);" />
-  </a>
-</p>
-
-<p align="center">
-  <small>Click the Dino to play the classic Dino game!</small>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Catch the Dino" style="border: 2px solid #36BCF7; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.3);" />
 </p>
